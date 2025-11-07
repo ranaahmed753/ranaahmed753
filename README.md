@@ -1,12 +1,12 @@
 
 <h1 align="center">Hi 👋, I'm Rana Ahmed</h1>
-<h3 align="center">Android & Web Developer</h3>
+<h3 align="center">Flutter & React Native Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ranaahmed753&label=Profile%20views&color=0e75b6&style=flat" alt="ranaahmed753" /> </p>
 
 - 🔭 I’m currently working on **TechnoNext**
 
-- 💬 Ask me about **android,java,kotlin,react,react-native**
+- 💬 Ask me about **Flutter,React Native**
 
 - 📫 How to reach me **ranaete14@gmail.com**
 
