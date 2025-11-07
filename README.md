@@ -6,9 +6,9 @@
 
 - 🔭 I’m currently working on **TechnoNext**
 
-- 💬 Ask me about **Flutter,React Native**
+- 💬 Ask me about **Flutter,React Native,Dart, Javascript**
 
-- 📫 How to reach me **ranaete14@gmail.com**      **cleverdeveloper9@gmail.com**    **01761792901**
+- 📫 How to reach me **ranaete14@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
