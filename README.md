@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **Flutter,React Native**
 
-- 📫 How to reach me **ranaete14@gmail.com**
+- 📫 How to reach me **ranaete14@gmail.com** **https://www.linkedin.com/in/rana-ahmed-a26b7a1ba/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
